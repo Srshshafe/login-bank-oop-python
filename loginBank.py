@@ -1,7 +1,8 @@
 # This is a sample Python script.
 
 #first example writing a bank account from object oriented programming
-# Copy right and reference: https://www.youtube.com/watch?v=4-NqE8ZA4vI
+# Copy right from LatinAutor - Warner Chappell, UNIAO BRASILEIRA DE EDITORAS DE MUSICA - UBEM, BMI - Broadcast Music Inc., LatinAutor, LatinAutorPerf, and 2 Music Rights Societiesand 
+#reference: https://www.youtube.com/watch?v=4-NqE8ZA4vI
 
 class BankAccount:
     def __init__(self):
