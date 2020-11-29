@@ -1,7 +1,7 @@
 # This is a sample Python script.
 
 #first example writing a bank account from object oriented programming
-# reference: https://www.youtube.com/watch?v=4-NqE8ZA4vI
+# Copy right and reference: https://www.youtube.com/watch?v=4-NqE8ZA4vI
 
 class BankAccount:
     def __init__(self):
